@@ -1,16 +1,72 @@
-### Hi there 👋
+### Hi there <img src="https://media.giphy.com/media/AOXNxxIJuBQdNTBblp/giphy.gif" width="30px">, I'm Denis
+[![Telegram Badge](https://img.shields.io/badge/-Write_me-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/aaapchiiiii)
 
-<!--
-**slipneff/slipneff** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
+## I'm a BackEnd Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">
+- 💪 I started programming since 2011, participated in olympiads
+- 🕵️ I like to study information security
+- 🎯 I am constantly learning new things
+- 🎧 I enjoy listening to music 
+<br />
+<p align="center">
+ <img width="600" src="assets/github-snake.svg" alt="snake"/>
+</p>
 
-Here are some ideas to get you started:
+---
+### 🧰 Languages and Tools:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img align="left" alt="Golang" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" />
+<img align="left" alt="Git" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+<img align="left" alt="Linux" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+<img align="left" alt="NodeJS" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+<img align="left" alt="GitHub" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+<img align="left" alt="GitHub" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" />
+<img align="left" alt="GitHub" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" />
+
+<br />
+<br />
+
+---
+### 💬 Social Networks:
+
+[<img align="left" alt="DenisScherbakov | Instagram" width="50px" style="padding-right:10px;" src="https://media.giphy.com/media/QWpK88H1g9PtmtQly1/giphy.gif" />][instagram]
+[<img align="left" alt="DenisScherbakov | VK" width="70px" style="padding-right:10px;" src="https://media.giphy.com/media/4fGNh8cEOdGWa2hA4z/giphy.gif" />][vk]
+<br />
+---
+### 💻 LeetCode:
+
+![LeetCode](https://badges.peiyuan.ch/leetcode/slipneff1/name)
+![LeetCode](https://badges.peiyuan.ch/leetcode/slipneff1/ranking)
+
+![LeetCode](https://badges.peiyuan.ch/leetcode/slipneff1/submission?accepted=false&difficulty=all)
+
+![LeetCode](https://badges.peiyuan.ch/leetcode/slipneff1/submission?accepted=true&difficulty=easy)
+![LeetCode](https://badges.peiyuan.ch/leetcode/slipneff1/rate?difficulty=easy)
+
+![LeetCode](https://badges.peiyuan.ch/leetcode/slipneff1/submission?accepted=true&difficulty=medium)
+![LeetCode](https://badges.peiyuan.ch/leetcode/slipneff1/rate?difficulty=medium)
+
+![LeetCode](https://badges.peiyuan.ch/leetcode/slipneff1/submission?accepted=true&difficulty=hard)
+![LeetCode](https://badges.peiyuan.ch/leetcode/slipneff1/rate?difficulty=hard)
+
+
+[instagram]: https://www.instagram.com/aaapchii/
+[vk]: https://vk.com/all.aadenis
+[TG]: https://t.me/aaapchiiiii
+
+---
+
+###  <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="30px"> GitHub Stats:
+
+<table>
+  <tr>
+    <td>
+      <img align="left" src="http://github-readme-streak-stats.herokuapp.com?user=Slipneff&theme=dark&background=000000" alt="webDev's Github stats" />
+    </td>
+    <td>
+      <img height="195px" align="right" alt="webDev's Github Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Slipneff&layout=compact&theme=vision-friendly-dark" />
+    </td>
+  </tr>
+</table>
+
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=slipneff)

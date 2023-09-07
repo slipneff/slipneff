@@ -37,19 +37,19 @@
 ---
 ### 💻 LeetCode:
 
-![LeetCode](https://badges.peiyuan.ch/leetcode/slipneff1/name)
-![LeetCode](https://badges.peiyuan.ch/leetcode/slipneff1/ranking)
+![LeetCode](https://badges.peiyuan.ch/leetcode/slipneff/name)
+![LeetCode](https://badges.peiyuan.ch/leetcode/slipneff/ranking)
 
-![LeetCode](https://badges.peiyuan.ch/leetcode/slipneff1/submission?accepted=false&difficulty=all)
+![LeetCode](https://badges.peiyuan.ch/leetcode/slipneff/submission?accepted=false&difficulty=all)
 
-![LeetCode](https://badges.peiyuan.ch/leetcode/slipneff1/submission?accepted=true&difficulty=easy)
-![LeetCode](https://badges.peiyuan.ch/leetcode/slipneff1/rate?difficulty=easy)
+![LeetCode](https://badges.peiyuan.ch/leetcode/slipneff/submission?accepted=true&difficulty=easy)
+![LeetCode](https://badges.peiyuan.ch/leetcode/slipneff/rate?difficulty=easy)
 
-![LeetCode](https://badges.peiyuan.ch/leetcode/slipneff1/submission?accepted=true&difficulty=medium)
-![LeetCode](https://badges.peiyuan.ch/leetcode/slipneff1/rate?difficulty=medium)
+![LeetCode](https://badges.peiyuan.ch/leetcode/slipneff/submission?accepted=true&difficulty=medium)
+![LeetCode](https://badges.peiyuan.ch/leetcode/slipneff/rate?difficulty=medium)
 
-![LeetCode](https://badges.peiyuan.ch/leetcode/slipneff1/submission?accepted=true&difficulty=hard)
-![LeetCode](https://badges.peiyuan.ch/leetcode/slipneff1/rate?difficulty=hard)
+![LeetCode](https://badges.peiyuan.ch/leetcode/slipneff/submission?accepted=true&difficulty=hard)
+![LeetCode](https://badges.peiyuan.ch/leetcode/slipneff/rate?difficulty=hard)
 
 
 [instagram]: https://www.instagram.com/aaapchii/

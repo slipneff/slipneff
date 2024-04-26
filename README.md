@@ -4,9 +4,8 @@
 ---
 ## I'm a BackEnd Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">
 - 💪 I started programming since 2011, participated in olympiads
-- 🕵️ I like to study information security
+- 🕵️ Now I'm Gopher
 - 🎯 I am constantly learning new things
-- 🎧 I enjoy listening to music 
 <br />
 <p align="center">
  <img width="600" src="assets/github-snake.svg" alt="snake"/>
@@ -51,8 +50,6 @@
 ![LeetCode](https://badges.peiyuan.ch/leetcode/slipneff/submission?accepted=true&difficulty=hard)
 ![LeetCode](https://badges.peiyuan.ch/leetcode/slipneff/rate?difficulty=hard)
 
-
-[instagram]: https://www.instagram.com/aaapchii/
 [vk]: https://vk.com/all.aadenis
 [TG]: https://t.me/aaapchiiiii
 

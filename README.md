@@ -28,7 +28,6 @@
 ---
 ### 💬 Social Networks:
 
-[<img align="left" alt="DenisScherbakov | Instagram" width="50px" style="padding-right:10px;" src="https://media.giphy.com/media/QWpK88H1g9PtmtQly1/giphy.gif" />][instagram]
 [<img align="left" alt="DenisScherbakov | VK" width="70px" style="padding-right:10px;" src="https://media.giphy.com/media/4fGNh8cEOdGWa2hA4z/giphy.gif" />][vk]
 <br />
 <br />

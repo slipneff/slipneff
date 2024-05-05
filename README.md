@@ -8,7 +8,7 @@
 - 🎯 I am constantly learning new things
 <br />
 <p align="center">
- <img width="600" src="assets/github-snake.svg" alt="snake"/>
+ <img width="600" src="https://tenor.com/ru/view/dancing-gopher-dancing-gopher-golang-gif-21954547" alt="snake"/>
 </p>
 
 ---

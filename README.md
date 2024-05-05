@@ -22,13 +22,6 @@
 <br />
 
 ---
-### 💬 Social Networks:
-
-[<img align="left" alt="DenisScherbakov | VK" width="70px" style="padding-right:10px;" src="https://media.giphy.com/media/4fGNh8cEOdGWa2hA4z/giphy.gif" />][vk]
-<br />
-<br />
-
----
 ### 💻 LeetCode:
 
 ![LeetCode](https://badges.peiyuan.ch/leetcode/slipneff/name)
@@ -48,7 +41,13 @@
 [vk]: https://vk.com/all.aadenis
 [TG]: https://t.me/aaapchiiiii
 
+<br />
+ <img width="200" src="https://media1.tenor.com/m/2vkcFRejwJIAAAAC/kai-angel-9mice.gif" alt="kai"/>
+
+
+
 ---
+
 
 ###  <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="30px"> GitHub Stats:
 

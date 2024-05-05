@@ -1,14 +1,10 @@
-### Hi there <img src="https://media.giphy.com/media/AOXNxxIJuBQdNTBblp/giphy.gif" width="30px">, I'm Denis
+### Hi there <img src="https://media.tenor.com/hD56X-Q5AzMAAAAi/gopher-shaking.gif" width="30px">, I'm Denis
 [![Telegram Badge](https://img.shields.io/badge/-Write_me-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/aaapchiiiii)
 
 ---
-## I'm a BackEnd Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">
-- 💪 I started programming since 2011, participated in olympiads
-- 🕵️ Now I'm Gopher
-- 🎯 I am constantly learning new things
 <br />
 <p align="center">
- <img width="600" src="https://tenor.com/ru/view/dancing-gopher-dancing-gopher-golang-gif-21954547" alt="snake"/>
+ <img width="400" src="https://media.tenor.com/TCMWkxIkF9IAAAAi/dancing-gopher.gif" alt="gopher"/>
 </p>
 
 ---
